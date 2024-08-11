@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>TruBoxingFan Home Page on TruBoxingFan</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in TruBoxingFan Home Page on TruBoxingFan</description>
+    <generator>Hugo -- 0.131.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Aug 2024 20:18:23 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>http://localhost:1313/first-post/</link>
+      <pubDate>Sat, 10 Aug 2024 20:18:23 -0400</pubDate>
+      <guid>http://localhost:1313/first-post/</guid>
+      <description>lorem ipsum first post 1</description>
+    </item>
+    <item>
+      <title>Ortiz vs Bohachuk</title>
+      <link>http://localhost:1313/analysis/ortiz-vs-bohachuk/</link>
+      <pubDate>Sat, 10 Aug 2024 20:18:23 -0400</pubDate>
+      <guid>http://localhost:1313/analysis/ortiz-vs-bohachuk/</guid>
+      <description>lorem ipsum first post 1</description>
+    </item>
+    <item>
+      <title>Turki Al Al Shikh: How his excellency is trying to bring back lost glory</title>
+      <link>http://localhost:1313/business-of-boxing/man-to-revive-boxing/</link>
+      <pubDate>Sat, 10 Aug 2024 20:18:23 -0400</pubDate>
+      <guid>http://localhost:1313/business-of-boxing/man-to-revive-boxing/</guid>
+      <description>In the world of boxing, where nostalgia often blends with present-day innovation, Turki Al Al Shikh has emerged as a pivotal figure in rekindling the sport&amp;rsquo;s golden era. As the chairman of the Saudi Arabian General Entertainment Authority, Al Al Shikh has spearheaded a renaissance in boxing, bringing back the grandeur and excitement that once defined the sport.
+Under Al Al Shikh&amp;rsquo;s stewardship, Saudi Arabia has transformed into a global boxing hub, hosting high-profile fights that have captivated audiences worldwide.</description>
+    </item>
+    <item>
+      <title>Crawford vs Madrimov</title>
+      <link>http://localhost:1313/analysis/crawford-vs-madrimov/</link>
+      <pubDate>Sun, 04 Aug 2024 20:18:23 -0400</pubDate>
+      <guid>http://localhost:1313/analysis/crawford-vs-madrimov/</guid>
+      <description>A Cautious Clash Ends in a Disappointing Display</description>
+    </item>
+  </channel>
+</rss>
