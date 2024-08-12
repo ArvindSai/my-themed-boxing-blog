@@ -2,7 +2,7 @@
 title: "Crawford vs Madrimov"
 description: "A Cautious Clash Ends in a Disappointing Display"
 date: 2024-08-04T20:18:23-04:00
-draft: true
+draft: false
 image:
 math:
 license:
