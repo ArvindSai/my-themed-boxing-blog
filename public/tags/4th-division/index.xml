@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>4th Division on TruBoxingFan</title>
-    <link>http://localhost:1313/tags/4th-division/</link>
+    <link>https://arvindsai.github.io/my-themed-boxing-blog/tags/4th-division/</link>
     <description>Recent content in 4th Division on TruBoxingFan</description>
     <generator>Hugo -- 0.131.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 04 Aug 2024 20:18:23 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/4th-division/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://arvindsai.github.io/my-themed-boxing-blog/tags/4th-division/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Crawford vs Madrimov</title>
-      <link>http://localhost:1313/analysis/crawford-vs-madrimov/</link>
+      <link>https://arvindsai.github.io/my-themed-boxing-blog/analysis/crawford-vs-madrimov/</link>
       <pubDate>Sun, 04 Aug 2024 20:18:23 -0400</pubDate>
-      <guid>http://localhost:1313/analysis/crawford-vs-madrimov/</guid>
+      <guid>https://arvindsai.github.io/my-themed-boxing-blog/analysis/crawford-vs-madrimov/</guid>
       <description>A Cautious Clash Ends in a Disappointing Display</description>
     </item>
   </channel>
